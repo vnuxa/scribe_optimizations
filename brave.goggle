@@ -10,10 +10,10 @@ $site=wikipedia.org,boost=3
 $site=github.com,boost=1
 $site=gitlab.com,boost=1
 $site=stackoverflow.com,boost=1
-$site=https://wiki.*.org/,$boost=2
+$site=https://wiki.*.org/,boost=2
 $site=*wiki*, boost=1
 $site=/docs/,boost=1
-$site=https://docs.rs/,$boost=2
+$site=https://docs.rs/,boost=2
 $discard,site=nixos.wiki
 
 
