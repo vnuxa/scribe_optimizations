@@ -35,7 +35,6 @@ $boost=3,site=cornell.edu
 $boost=3,site=duke.edu
 $boost=3,site=princeton.edu
 $boost=3,site=uchicago.edu
-$boost=3,site=ucla.edu
 $boost=3,site=ucsd.edu
 $boost=3,site=umich.edu
 $boost=3,site=upenn.edu
