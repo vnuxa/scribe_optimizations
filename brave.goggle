@@ -12,7 +12,7 @@ $site=gitlab.com,boost=2
 $site=stackoverflow.com,boost=1
 
 ! some cool rss
-$site=lobste.rs,boost=4
+$site=lobste.rs,boost=2
 $site=news.ycombinator.com,boost=1
 
 ! could be useful articles, research papers, blogs
