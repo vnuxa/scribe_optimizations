@@ -9456,5 +9456,5 @@ $discard,site=go.dev
 $discard,site=elm-lang.org
 $discard,site=pub.dev
 $discard,site=haskell.org
-$boost=5,site=medium.com
+$boost=1,site=medium.com
 |https://docs.python.org/2/$downrank=4
