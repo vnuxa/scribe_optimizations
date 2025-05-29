@@ -15,7 +15,8 @@ $site=*wiki*, boost=1
 $site=/docs/,boost=1
 $site=https://docs.rs/,boost=2
 $discard,site=nixos.wiki
-
+$boost=1,site=myanimelist.net
+$boost=1,site=anilist.co
 
 ! some cool rss
 $site=lobste.rs,boost=2
