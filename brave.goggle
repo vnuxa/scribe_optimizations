@@ -8,6 +8,8 @@
 ! general
 $site=wikipedia.org,boost=3
 $site=github.com,boost=1
+$site=github.com,boost=1
+$site=codeberg.org,boost=5
 $site=gitlab.com,boost=1
 $site=stackoverflow.com,boost=1
 $site=https://wiki.*.org/,boost=2
