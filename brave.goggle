@@ -23,6 +23,10 @@ $boost=2,site=anilist.co
 $site=lobste.rs,boost=2
 $site=news.ycombinator.com,boost=1
 
+
+$discard=*chatgpt*
+$discard=*warp*
+
 ! could be useful articles, research papers, blogs
 
 
